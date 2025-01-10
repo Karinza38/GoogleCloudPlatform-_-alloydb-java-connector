@@ -1,4 +1,4 @@
-# AlloyDB Java Connector
+ # AlloyDB Java Connector
 
 [![CI][ci-badge]][ci-build]
 [![Maven][maven-version-image]][maven-version-link]
